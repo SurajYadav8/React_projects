@@ -43,3 +43,6 @@ function App() {
 }
 
 export default App
+
+// context api 
+// theme changer
